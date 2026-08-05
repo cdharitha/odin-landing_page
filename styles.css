@@ -204,6 +204,7 @@ figcaption{
     padding: 35px 0;
     align-items: center;
 }
+/* Responsive Web Page */
 @media (max-width: 768px) {
     ul{
         flex-direction: column;
